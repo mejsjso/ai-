@@ -1,0 +1,12 @@
+# requirements.txt
+tkinter
+openai
+jsonschema
+Pillow
+scikit-learn
+jieba
+rich
+PyPDF2
+PyMuPDF
+requests
+pyyaml

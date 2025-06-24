@@ -1,0 +1,14 @@
+file:
+  allowed_dirs:
+  - "/Users/jiangbowen/Desktop/ai\u57FA\u7840"
+  enabled: true
+openai:
+  api_key: ""
+  base_url: "https://api.siliconflow.cn/v1"
+search:
+  api_key: 
+  enabled: true
+  provider: google
+weather:
+  api_key: 
+  enabled: true
